@@ -1,0 +1,356 @@
+{
+	"//" : "Copyright 2018 Atos SE and Worldline",
+	"//" : "Licensed under MIT (https://github.com/atosorigin/DevOpsMaturityAssessment/blob/master/LICENSE)",
+	
+	"Process Maturity" : {
+		"Advice" : "The assessed processes are based on COBIT. COBIT 5 is a framework focussing on internal processes. From all 5 sections the most important processes (which are not covered by the other 3 sections of this assessment tool) were picked, to assess their existence and maturity.",
+		
+		"ReadMore" : "The processes are divided into subcategories: Divided into:  1. Evaluate, Direct, and Monitor, 2. Align, Plan and Organise, 3. Build, Acquire and Implement, 4. Deliver, Service and Support, 5. Monitor, Evaluate and Assess",
+		
+		"Links" : [
+			{
+				"Type" : "Blog",
+				"Text" : "Cultivate Communities of Practice by Mike Cohn",
+				"Href" : "https://www.mountaingoatsoftware.com/blog/cultivate-communities-of-practice"
+			},
+			{
+				"Type" : "Video",
+				"Text" : "DevOpsChat: Collaboration Tools Interview with Ryan Bryers and Adrian Hepworth (0:22)",
+				"Href" : "https://www.youtube.com/watch?v=pF8Y4amhBtA"
+			}
+		]
+	},
+	"Evaluate, Direct, and Monitor" : {
+		"Advice" : "The assessed processes are based on COBIT. COBIT 5 is a framework focussing on internal processes. From all 5 sections the most important processes (which are not covered by the other 3 sections of this assessment tool) were picked, to assess their existence and maturity.",
+		
+		"ReadMore" : "The processes are divided into subcategories: Divided into:  1. Evaluate, Direct, and Monitor, 2. Align, Plan and Organise, 3. Build, Acquire and Implement, 4. Deliver, Service and Support, 5. Monitor, Evaluate and Assess",
+		
+		"Links" : [
+			{
+				"Type" : "Blog",
+				"Text" : "Cultivate Communities of Practice by Mike Cohn",
+				"Href" : "https://www.mountaingoatsoftware.com/blog/cultivate-communities-of-practice"
+			},
+			{
+				"Type" : "Video",
+				"Text" : "DevOpsChat: Collaboration Tools Interview with Ryan Bryers and Adrian Hepworth (0:22)",
+				"Href" : "https://www.youtube.com/watch?v=pF8Y4amhBtA"
+			}
+		]
+	},
+	"Align, Plan and Organise" : {
+		"Advice" : "The assessed processes are based on COBIT. COBIT 5 is a framework focussing on internal processes. From all 5 sections the most important processes (which are not covered by the other 3 sections of this assessment tool) were picked, to assess their existence and maturity.",
+		
+		"ReadMore" : "The processes are divided into subcategories: Divided into:  1. Evaluate, Direct, and Monitor, 2. Align, Plan and Organise, 3. Build, Acquire and Implement, 4. Deliver, Service and Support, 5. Monitor, Evaluate and Assess",
+		
+		"Links" : [
+			{
+				"Type" : "Blog",
+				"Text" : "Cultivate Communities of Practice by Mike Cohn",
+				"Href" : "https://www.mountaingoatsoftware.com/blog/cultivate-communities-of-practice"
+			},
+			{
+				"Type" : "Video",
+				"Text" : "DevOpsChat: Collaboration Tools Interview with Ryan Bryers and Adrian Hepworth (0:22)",
+				"Href" : "https://www.youtube.com/watch?v=pF8Y4amhBtA"
+			}
+		]
+	},
+	"Build, Acquire and Implement" : {
+		"Advice" : "The assessed processes are based on COBIT. COBIT 5 is a framework focussing on internal processes. From all 5 sections the most important processes (which are not covered by the other 3 sections of this assessment tool) were picked, to assess their existence and maturity.",
+		
+		"ReadMore" : "The processes are divided into subcategories: Divided into:  1. Evaluate, Direct, and Monitor, 2. Align, Plan and Organise, 3. Build, Acquire and Implement, 4. Deliver, Service and Support, 5. Monitor, Evaluate and Assess",
+		
+		"Links" : [
+			{
+				"Type" : "Blog",
+				"Text" : "Cultivate Communities of Practice by Mike Cohn",
+				"Href" : "https://www.mountaingoatsoftware.com/blog/cultivate-communities-of-practice"
+			},
+			{
+				"Type" : "Video",
+				"Text" : "DevOpsChat: Collaboration Tools Interview with Ryan Bryers and Adrian Hepworth (0:22)",
+				"Href" : "https://www.youtube.com/watch?v=pF8Y4amhBtA"
+			}
+		]
+	},
+	"Deliver, Service and Support" : {
+		"Advice" : "The assessed processes are based on COBIT. COBIT 5 is a framework focussing on internal processes. From all 5 sections the most important processes (which are not covered by the other 3 sections of this assessment tool) were picked, to assess their existence and maturity.",
+		
+		"ReadMore" : "The processes are divided into subcategories: Divided into:  1. Evaluate, Direct, and Monitor, 2. Align, Plan and Organise, 3. Build, Acquire and Implement, 4. Deliver, Service and Support, 5. Monitor, Evaluate and Assess",
+		
+		"Links" : [
+			{
+				"Type" : "Blog",
+				"Text" : "Cultivate Communities of Practice by Mike Cohn",
+				"Href" : "https://www.mountaingoatsoftware.com/blog/cultivate-communities-of-practice"
+			},
+			{
+				"Type" : "Video",
+				"Text" : "DevOpsChat: Collaboration Tools Interview with Ryan Bryers and Adrian Hepworth (0:22)",
+				"Href" : "https://www.youtube.com/watch?v=pF8Y4amhBtA"
+			}
+		]
+	},
+	"Monitor, Evaluate and Assess" : {
+		"Advice" : "The assessed processes are based on COBIT. COBIT 5 is a framework focussing on internal processes. From all 5 sections the most important processes (which are not covered by the other 3 sections of this assessment tool) were picked, to assess their existence and maturity.",
+		
+		"ReadMore" : "The processes are divided into subcategories: Divided into:  1. Evaluate, Direct, and Monitor, 2. Align, Plan and Organise, 3. Build, Acquire and Implement, 4. Deliver, Service and Support, 5. Monitor, Evaluate and Assess",
+		
+		"Links" : [
+			{
+				"Type" : "Blog",
+				"Text" : "Cultivate Communities of Practice by Mike Cohn",
+				"Href" : "https://www.mountaingoatsoftware.com/blog/cultivate-communities-of-practice"
+			},
+			{
+				"Type" : "Video",
+				"Text" : "DevOpsChat: Collaboration Tools Interview with Ryan Bryers and Adrian Hepworth (0:22)",
+				"Href" : "https://www.youtube.com/watch?v=pF8Y4amhBtA"
+			}
+		]
+	},
+	"Organizational Maturity" : {
+		"Advice" : "Org Structure, Culture and Incentives are critical for Digital success within an organisation, but they are also the hardest/most disruptive elements to change and get right.",
+		"Links" : [
+			{
+				"Type" : "Case Study",
+				"Text" : "ITOM - A Framework which allows Atos to provide comprehensive end-to-end solutions to our clients, supporting them at any stage of their IT service and technology lifecycle ",
+				"Href" : "https://fusiongbs.com/company/case-studies/atos-customer-story/"
+			},
+			{
+				"Type" : "Video",
+				"Text" : "Spotify Engineering Culture",
+				"Href" : "https://vimeo.com/85490944"
+			},
+			{
+				"Type" : "Book",
+				"Text" : "The Open Organization Field Guide",
+				"Href" : "https://opensource.com/open-organization/resources/field-guide"
+			},
+			{
+				"Type" : "Website",
+				"Text" : "Management 3.0",
+				"Href" : "https://management30.com"
+			}
+		]
+	},
+	
+	"Service Maturity" : {
+		"Advice" : "The services assessed in this tool are based on ITIL 4. ITIL 4 is perfect for this purpose as it understands an organization build around its services and their maturity. ",
+		
+		"ReadMore" : "The services here are divided into subcategories: 1. service-strategy, 2. service-design, 3. service-transition, 4. service-operation, 5. service-improvement",
+		
+		"Links" : [
+			{
+				"Type" : "Book",
+				"Text" : "Get started with Red Hat Ansible Tower",
+				"Href" : "https://www.ansible.com/resources/ebooks/get-started-with-red-hat-ansible-tower"
+			},
+			{
+				"Type" : "Article",
+				"Text" : "Various Ansible Whitepapers",
+				"Href" : "https://www.ansible.com/resources/whitepapers"
+			}
+		]
+	},
+	"Skill Maturity" : {
+		"Advice" : "SFIA is a framework, that has identified the most important digital skills a organization needs and has ranked them into levels of maturity. The benchmark for each question is the existence and then the highest possible maturity-level of the needed skill.  In this tool, the most fundamental skills from each section were picked.",
+
+		"ReadMore" : "Divided into: 1. Strategy and architecture, 2. Change and transformation, 3. Development and implementation, 4. Delivery and operation, 5. Skills and quality, 6. Relationships and engagement",
+
+		"Links" : [
+			{
+				"Type" : "Blog",
+				"Text" : "One year using Kubernetes in production: Lessons learned by Paul Bakker",
+				"Href" : "https://techbeacon.com/devops/one-year-using-kubernetes-production-lessons-learned"
+			},
+			{
+				"Type" : "Blog",
+				"Text" : "10 automation tools your DevOps team can not live without Matt Shealy",
+				"Href" : "https://bigdata-madesimple.com/10-automation-tools-your-devops-team-cant-live-without/"
+			}
+		]
+	},
+	"Skills and Quality" : {
+		"Advice" : "SFIA is a framework, that has identified the most important digital skills a organization needs and has ranked them into levels of maturity. The benchmark for each question is the existence and then the highest possible maturity-level of the needed skill.  In this tool, the most fundamental skills from each section were picked.",
+
+		"ReadMore" : "Divided into: 1. Strategy and architecture, 2. Change and transformation, 3. Development and implementation, 4. Delivery and operation, 5. Skills and quality, 6. Relationships and engagement",
+
+		"Links" : [
+			{
+				"Type" : "Blog",
+				"Text" : "One year using Kubernetes in production: Lessons learned by Paul Bakker",
+				"Href" : "https://techbeacon.com/devops/one-year-using-kubernetes-production-lessons-learned"
+			},
+			{
+				"Type" : "Blog",
+				"Text" : "10 automation tools your DevOps team can not live without Matt Shealy",
+				"Href" : "https://bigdata-madesimple.com/10-automation-tools-your-devops-team-cant-live-without/"
+			}
+		]
+	},
+	"Relationships and engagement" : {
+		"Advice" : "SFIA is a framework, that has identified the most important digital skills a organization needs and has ranked them into levels of maturity. The benchmark for each question is the existence and then the highest possible maturity-level of the needed skill.  In this tool, the most fundamental skills from each section were picked.",
+
+		"ReadMore" : "Divided into: 1. Strategy and architecture, 2. Change and transformation, 3. Development and implementation, 4. Delivery and operation, 5. Skills and quality, 6. Relationships and engagement",
+
+		"Links" : [
+			{
+				"Type" : "Blog",
+				"Text" : "One year using Kubernetes in production: Lessons learned by Paul Bakker",
+				"Href" : "https://techbeacon.com/devops/one-year-using-kubernetes-production-lessons-learned"
+			},
+			{
+				"Type" : "Blog",
+				"Text" : "10 automation tools your DevOps team can not live without Matt Shealy",
+				"Href" : "https://bigdata-madesimple.com/10-automation-tools-your-devops-team-cant-live-without/"
+			}
+		]
+	},
+	"Delivery and Operation" : {
+		"Advice" : "SFIA is a framework, that has identified the most important digital skills a organization needs and has ranked them into levels of maturity. The benchmark for each question is the existence and then the highest possible maturity-level of the needed skill.  In this tool, the most fundamental skills from each section were picked.",
+
+		"ReadMore" : "Divided into: 1. Strategy and architecture, 2. Change and transformation, 3. Development and implementation, 4. Delivery and operation, 5. Skills and quality, 6. Relationships and engagement",
+
+		"Links" : [
+			{
+				"Type" : "Blog",
+				"Text" : "One year using Kubernetes in production: Lessons learned by Paul Bakker",
+				"Href" : "https://techbeacon.com/devops/one-year-using-kubernetes-production-lessons-learned"
+			},
+			{
+				"Type" : "Blog",
+				"Text" : "10 automation tools your DevOps team can not live without Matt Shealy",
+				"Href" : "https://bigdata-madesimple.com/10-automation-tools-your-devops-team-cant-live-without/"
+			}
+		]
+	},
+	"Development and Implementation" : {
+		"Advice" : "SFIA is a framework, that has identified the most important digital skills a organization needs and has ranked them into levels of maturity. The benchmark for each question is the existence and then the highest possible maturity-level of the needed skill.  In this tool, the most fundamental skills from each section were picked.",
+
+		"ReadMore" : "Divided into: 1. Strategy and architecture, 2. Change and transformation, 3. Development and implementation, 4. Delivery and operation, 5. Skills and quality, 6. Relationships and engagement",
+
+		"Links" : [
+			{
+				"Type" : "Blog",
+				"Text" : "One year using Kubernetes in production: Lessons learned by Paul Bakker",
+				"Href" : "https://techbeacon.com/devops/one-year-using-kubernetes-production-lessons-learned"
+			},
+			{
+				"Type" : "Blog",
+				"Text" : "10 automation tools your DevOps team can not live without Matt Shealy",
+				"Href" : "https://bigdata-madesimple.com/10-automation-tools-your-devops-team-cant-live-without/"
+			}
+		]
+	},
+	"Change and Transformation" : {
+		"Advice" : "SFIA is a framework, that has identified the most important digital skills a organization needs and has ranked them into levels of maturity. The benchmark for each question is the existence and then the highest possible maturity-level of the needed skill.  In this tool, the most fundamental skills from each section were picked.",
+
+		"ReadMore" : "Divided into: 1. Strategy and architecture, 2. Change and transformation, 3. Development and implementation, 4. Delivery and operation, 5. Skills and quality, 6. Relationships and engagement",
+
+		"Links" : [
+			{
+				"Type" : "Blog",
+				"Text" : "One year using Kubernetes in production: Lessons learned by Paul Bakker",
+				"Href" : "https://techbeacon.com/devops/one-year-using-kubernetes-production-lessons-learned"
+			},
+			{
+				"Type" : "Blog",
+				"Text" : "10 automation tools your DevOps team can not live without Matt Shealy",
+				"Href" : "https://bigdata-madesimple.com/10-automation-tools-your-devops-team-cant-live-without/"
+			}
+		]
+	},
+	"Strategy and Architecture" : {
+		"Advice" : "SFIA is a framework, that has identified the most important digital skills a organization needs and has ranked them into levels of maturity. The benchmark for each question is the existence and then the highest possible maturity-level of the needed skill.  In this tool, the most fundamental skills from each section were picked.",
+
+		"ReadMore" : "Divided into: 1. Strategy and architecture, 2. Change and transformation, 3. Development and implementation, 4. Delivery and operation, 5. Skills and quality, 6. Relationships and engagement",
+
+		"Links" : [
+			{
+				"Type" : "Blog",
+				"Text" : "One year using Kubernetes in production: Lessons learned by Paul Bakker",
+				"Href" : "https://techbeacon.com/devops/one-year-using-kubernetes-production-lessons-learned"
+			},
+			{
+				"Type" : "Blog",
+				"Text" : "10 automation tools your DevOps team can not live without Matt Shealy",
+				"Href" : "https://bigdata-madesimple.com/10-automation-tools-your-devops-team-cant-live-without/"
+			}
+		]
+	},
+	"Service Operation" : {
+		"Advice" : "The services assessed in this tool are based on ITIL 4. ITIL 4 is perfect for this purpose as it understands an organization build around its services and their maturity. ",
+		
+		"ReadMore" : "The services here are divided into subcategories: 1. service-strategy, 2. service-design, 3. service-transition, 4. service-operation, 5. service-improvement",
+		
+		"Links" : [
+			{
+				"Type" : "Book",
+				"Text" : "Get started with Red Hat Ansible Tower",
+				"Href" : "https://www.ansible.com/resources/ebooks/get-started-with-red-hat-ansible-tower"
+			},
+			{
+				"Type" : "Article",
+				"Text" : "Various Ansible Whitepapers",
+				"Href" : "https://www.ansible.com/resources/whitepapers"
+			}
+		]
+	},
+	"Service Transition" : {
+		"Advice" : "The services assessed in this tool are based on ITIL 4. ITIL 4 is perfect for this purpose as it understands an organization build around its services and their maturity. ",
+		
+		"ReadMore" : "The services here are divided into subcategories: 1. service-strategy, 2. service-design, 3. service-transition, 4. service-operation, 5. service-improvement",
+		
+		"Links" : [
+			{
+				"Type" : "Book",
+				"Text" : "Get started with Red Hat Ansible Tower",
+				"Href" : "https://www.ansible.com/resources/ebooks/get-started-with-red-hat-ansible-tower"
+			},
+			{
+				"Type" : "Article",
+				"Text" : "Various Ansible Whitepapers",
+				"Href" : "https://www.ansible.com/resources/whitepapers"
+			}
+		]
+	},
+	"Service Design" : {
+		"Advice" : "The services assessed in this tool are based on ITIL 4. ITIL 4 is perfect for this purpose as it understands an organization build around its services and their maturity. ",
+		
+		"ReadMore" : "The services here are divided into subcategories: 1. service-strategy, 2. service-design, 3. service-transition, 4. service-operation, 5. service-improvement",
+		
+		"Links" : [
+			{
+				"Type" : "Book",
+				"Text" : "Get started with Red Hat Ansible Tower",
+				"Href" : "https://www.ansible.com/resources/ebooks/get-started-with-red-hat-ansible-tower"
+			},
+			{
+				"Type" : "Article",
+				"Text" : "Various Ansible Whitepapers",
+				"Href" : "https://www.ansible.com/resources/whitepapers"
+			}
+		]
+	},
+	"Service Strategy" : {
+		"Advice" : "The services assessed in this tool are based on ITIL 4. ITIL 4 is perfect for this purpose as it understands an organization build around its services and their maturity. ",
+		
+		"ReadMore" : "The services here are divided into subcategories: 1. service-strategy, 2. service-design, 3. service-transition, 4. service-operation, 5. service-improvement",
+		
+		"Links" : [
+			{
+				"Type" : "Book",
+				"Text" : "Get started with Red Hat Ansible Tower",
+				"Href" : "https://www.ansible.com/resources/ebooks/get-started-with-red-hat-ansible-tower"
+			},
+			{
+				"Type" : "Article",
+				"Text" : "Various Ansible Whitepapers",
+				"Href" : "https://www.ansible.com/resources/whitepapers"
+			}
+		]
+	}
+	
+}

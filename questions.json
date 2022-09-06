@@ -1,0 +1,284 @@
+[
+	{
+		"//" : "Copyright 2018 Atos SE and Worldline",
+		"//" : "Licensed under MIT (https://github.com/atosorigin/DevOpsMaturityAssessment/blob/master/LICENSE)",
+		"SectionName" : "Introduction",
+		"Questions" : [
+			{
+				"Type" : "Banner",
+				"QuestionText" : "This is a prototype of a tool to facilitate digital maturity assessment on IT Management and Governance. <br> It is based on a Dev-Ops maturity assessment tool. You cant find out more about it under about .<br> Its KPIs are simplicity and efficiency, to provide a first sight assessment to our clients regarding their maturity on Governance IT. "
+			}
+		]
+	},
+	{
+		"SectionName" : "Process Maturity",
+		"SpiderPos" : 2,
+		"Questions" : [
+			{
+				"Type" : "Option",
+				"SubCategory" : "Evaluate, Direct, and Monitor",
+				"QuestionText" : "Does a process to ensure Governance Framework Setting and Maintenance exist?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Evaluate, Direct, and Monitor",
+				"QuestionText" : "Is there a process to ensure benefits delivery?"
+			},
+			
+			{
+				"Type" : "Option",
+				"SubCategory" : "Evaluate, Direct, and Monitor",
+				"QuestionText" : "Is there a process to Ensure Risk Optimisation?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Evaluate, Direct, and Monitor",
+				"QuestionText" : "Is there a process to Ensure Resource Optimisation?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Align, Plan and Organise",
+				"QuestionText" : "Is there a process to manage the IT Management Framework?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Align, Plan and Organise",
+				"QuestionText" : "Is there a process to manage Enterprise Architecture? "
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Align, Plan and Organise",
+				"QuestionText" : "Is there a process to Manage Innovation? "
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Align, Plan and Organise",
+				"QuestionText" : "Is there a process to Manage Budget and Costs?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Align, Plan and Organise",
+				"QuestionText" : "Is there a process to Manage Costumer Relationsships?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Align, Plan and Organise",
+				"QuestionText" : "Is there a process to Manage Service Agreements? "
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Align, Plan and Organise",
+				"QuestionText" : "Is there a process to Manage Suppliers?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Align, Plan and Organise",
+				"QuestionText" : "Is there a process to Manage & audit quality?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Align, Plan and Organise",
+				"QuestionText" : "Is there a process to Manage Risk?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Align, Plan and Organise",
+				"QuestionText" : "Is there a process to manage security?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Build, Acquire and Implement",
+				"QuestionText" : "Is there a process to manage Programmes and Projects?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Deliver, Service and Support",
+				"QuestionText" : "Is there a process to manage Operations?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Monitor, Evaluate and Assess",
+				"QuestionText" : "Is there a process to monitor, evaluate and assess Performance and Conformance?"
+			}
+		]
+	},
+	{
+		"SectionName" : "Organizational Maturity",
+		"SpiderPos" : 7,
+		"Questions" : [
+			{
+				"Type" : "Option",
+				"QuestionText" : "Does your organization have knowledge about its current structure?"
+			},	
+			{
+				"Type" : "Option",
+				"QuestionText" : "Which model fits the structure of your organization best?",
+				"Answers" : [
+					{"Answer" : "Dispersed", "Score" : 0},
+					{"Answer" : "One Centre Of Excellence", "Score" : 1},
+					{"Answer" : "Hub and Spoke", "Score" : 2},
+					{"Answer" : "Multiple Hub and Spoke", "Score" : 3},
+					{"Answer" : "Fully integrated", "Score" : 4}
+
+					]
+			}
+		]
+	},
+	{
+		"SectionName" : "Service Maturity",
+		"SpiderPos" : 3,
+		"Questions" : [
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Strategy",
+				"QuestionText" : "Is a financial management included in the Service strategy?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Strategy",
+				"QuestionText" : "Is a demand management included in the Service strategy?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Strategy",
+				"QuestionText" : "Is the service portfolio regulary assessed and updated?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Design",
+				"QuestionText" : "Is service continuity implemented into the service design process?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Design",
+				"QuestionText" : "Is availability management included in the service design?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Design",
+				"QuestionText" : "Is capacity management included in the service design?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Design",
+				"QuestionText" : "Are all service levels included in the service design?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Design",
+				"QuestionText" : "Are suppliers & information security equally included in the service design?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Transition",
+				"QuestionText" : "Are Service Assess- & Configuration mangement included in service transition?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Transition",
+				"QuestionText" : "Does release- & deployment management exist for the service transition?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Transition",
+				"QuestionText" : "Is change management a measurable part of the service transition?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Transition",
+				"QuestionText" : "Does transition planning & support exist?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Operation",
+				"QuestionText" : "Is a service desk implemented to support service operation?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Operation",
+				"QuestionText" : "Does Incident Management exist to ensure resilience of the service operation?"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Service Operation",
+				"QuestionText" : "Does Problem Management exist to support efficiency of service operation?"
+			}		
+		]
+	},
+	{
+		"SectionName" : "Skill Maturity",
+		"SpiderPos" : 3,
+		"Questions" : [
+			{
+				"Type" : "Option",
+				"SubCategory" : "Strategy and Architecture",
+				"QuestionText" : "IT governance"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Strategy and Architecture",
+				"QuestionText" : "Analytics"
+			},	
+			{
+				"Type" : "Option",
+				"SubCategory" : "Strategy and Architecture",
+				"QuestionText" : "Technical specialism"
+			},	
+			{
+				"Type" : "Option",
+				"SubCategory" : "Strategy and Architecture",
+				"QuestionText" : "Solution Architecture"
+			},		
+			{
+				"Type" : "Option",
+				"SubCategory" : "Change and Transformation",
+				"QuestionText" : "Change implementation planning and management"
+			},	
+			{
+				"Type" : "Option",
+				"SubCategory" : "Development and Implementation",
+				"QuestionText" : "Systems development management"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Development and Implementation",
+				"QuestionText" : "User experience evaluation"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Development and Implementation",
+				"QuestionText" : "Systems integration"
+			},	
+			{
+				"Type" : "Option",
+				"SubCategory" : "Delivery and Operation",
+				"QuestionText" : "Service level management"
+			},	
+			{
+				"Type" : "Option",
+				"SubCategory" : "Delivery and Operation",
+				"QuestionText" : "IT Infrastructure"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Skills and Quality",
+				"QuestionText" : "Performance Management"
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Skills and Quality",
+				"QuestionText" : "Quality Management"
+			},		
+			{
+				"Type" : "Option",
+				"SubCategory" : "Relationships and engagement",
+				"QuestionText" : "Relationship Management "
+			},
+			{
+				"Type" : "Option",
+				"SubCategory" : "Relationships and engagement",
+				"QuestionText" : "Product Management"
+			}
+		]
+	}
+]	
